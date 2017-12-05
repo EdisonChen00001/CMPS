@@ -12,3 +12,11 @@ html,body,app-root,.site{
 main{
     flex:1;
 }
+
+header{
+    background-color: green;
+}
+
+footer{
+    background-color: blue;
+}
