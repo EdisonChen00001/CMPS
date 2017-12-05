@@ -26,14 +26,23 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-CMPS 
+# Content CMPS 
 use 
-Angular 5 
-Material UI 
-Animation
-response programming
-reactful programming
-Rxjs
-Angular core
-Redux
-Testing - { Karma Jasmine }
+# Angular 5
+ `Material UI |Animation|response programming|reactful programming|Rxjs|Angular core|Redux|Testing - [ Karma Jasmine ] `
+
+# CMPS Boot Tree
+application introudce 
+##Login Component 
+`login in|Sign in `
+
+##Core Component
+`lazy loading`
+ `Core List|add Item|Edit Item|Delete Item `
+##Duty Component
+`lazy loading`
+##Calendar Component
+`lazy loading`
+`vision `
+
+
